@@ -1,0 +1,19 @@
+mports required libraries:
+
+pandas: for reading and handling the dataset
+
+train_test_split: for splitting data into training and test sets
+
+TfidfVectorizer: for converting text into numerical feature vectors
+
+SVC: Support Vector Classifier (SVM algorithm)
+
+classification_report, accuracy_score: to evaluate model performance
+Converts the text labels into binary numbers:
+
+ham → 0 (not spam)
+
+spam → 1 (spam)
+
+This is necessary because machine learning models require numeric input.
+
