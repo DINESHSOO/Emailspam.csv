@@ -1,4 +1,4 @@
-mports required libraries:
+Imports required libraries:
 
 pandas: for reading and handling the dataset
 
